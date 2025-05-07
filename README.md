@@ -1,3 +1,5 @@
+IQ.ES
+
 Aplikasi iq.es dikembangkan menggunakan framework Laravel, mengadopsi pola MVC (Model-View-Controller) dengan struktur yang terorganisir dan mudah dikembangkan. Mari kita mulai dengan memahami struktur direktori dan file-file utamanya."
 
 Struktur Direktori
